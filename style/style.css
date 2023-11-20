@@ -115,6 +115,7 @@ color:blue;
     border-radius:6px;
     margin-left: 40px;
     cursor: pointer;
+    padding: 10px;
 }
 .inputs input:hover{
     background:rgb(252, 255, 255);
@@ -255,4 +256,111 @@ color:blue;
 }
 .uls2 ul li:hover{
     color:blue;
+}
+.footer-one__container{
+    margin-top: 200px;
+}
+.buton-three button{
+    width: 50px;
+    height: 20px;
+    background:white;
+    margin-left: -1255px;
+    border:none;
+    border-radius:12px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.buton-three button:hover{
+    background:rgb(180, 180, 180);
+    color:black;
+}
+.comon-img img{
+    width: 1370px;
+    height: 300px;
+    margin-left: -1295px;
+}
+.text-one p{
+    margin-left: -1290px;
+    font-size: 30px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.info-one{
+    width: 215px;
+    height: 82px;
+    background:white;
+    margin-left: -1270px;
+    margin-top: 19px;
+    border: none;
+    border-radius:12px;
+    transition: all 0.5s;
+    cursor: pointer;
+    border:1px solid lightgray;
+}
+.info-one:hover{
+    background:lightgray;
+}
+.info-one img{
+    width: 30px;
+    height: 30px;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+.info-one  h3{
+    margin-left: 70px;
+    margin-top: -30px;
+}
+.info-two{
+    width: 215px;
+    height: 82px;
+    background:white;
+    margin-left: -810px;
+    margin-top: -84px;
+    border: none;
+    border-radius:12px;
+    transition: all 0.5s;
+    cursor: pointer;
+    border:1px solid lightgray
+
+}
+.info-two img{
+    width: 30px;
+    height: 30px;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+.info-two h3{
+    margin-left: 70px;
+    margin-top: -35px;
+}
+
+.info-two:hover{
+    background:lightgray;
+}
+.info-three{
+    width: 215px;
+    height: 82px;
+    background:white;
+    margin-left: -1040px;
+    margin-top: -77.5px;
+    border: none;
+    border-radius:12px;
+    transition: all 0.5s;
+    cursor: pointer;
+    border:1px solid lightgray
+
+}
+.info-three img{
+    width: 30px;
+    height: 30px;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+.info-three h3{
+    margin-left: 70px;
+    margin-top: -35px;
+}
+
+.info-three:hover{
+    background:lightgray;
 }
