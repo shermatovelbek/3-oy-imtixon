@@ -451,10 +451,12 @@ color:blue;
     font-size: 30px;
     font-weight: 700;
     cursor: pointer;
+    margin-top: 10px;
 }
 .buttons{
-    margin-left: -1200px;
+    margin-left: -1250px;
     margin-top: 20px;
+    display:flex;
 }
 .one-buton button{
     width: 135px;
@@ -465,6 +467,7 @@ color:blue;
     border-radius:15px;
     cursor: pointer;
     transition: all 1s;
+    margin-top: 20px;
 }
 .one-buton button:hover{
     background:white;
@@ -478,13 +481,91 @@ color:blue;
     color:rgb(39, 37, 37);
     border-radius:15px;
     cursor: pointer;
-    transition: all 1s;
-    margin-top: -50px;
+    transition: all 1.0s;
     border:none;
-    margin-left:200px ;
+    margin-left:140px ;
+    margin-top:20px;
 }
 .two-buton button:hover{
     background:rgb(51, 50, 50);
     color:white;
     border:1px solid lightgray
+}
+/* .footer-thou{
+    display: flex;
+    align-items: center;
+} */
+.three-buton button{
+    width: 180px;
+    height: 36px;
+    background:lightgrey;
+    color:rgb(39, 37, 37);
+    border-radius:15px;
+    cursor: pointer;
+    transition: all 1.0s;
+    border:none;
+    margin-left:100px;
+    margin-top: 20px;
+
+}
+.three-buton button:hover{
+    background:rgb(51, 50, 50);
+    color:white;
+    border:1px solid lightgray
+}
+.four-buton button{
+    width: 170px;
+    height: 34px;
+    background:lightgrey;
+    border:none;
+    border-radius:15px;
+    cursor: pointer;
+    transition: all 1.0s;
+    margin-left: 100px;
+    margin-top: 23px;
+}
+.four-buton button:hover{
+    background:rgb(51, 50, 50);
+    color:white;
+    border:1px solid lightgray
+}
+.information2{
+    width: 211.5px;
+    height: 500px;
+    margin-left: -1200px;
+    margin-top: 20px;
+    border:none;
+    border-radius:12px;
+}
+.text-one button{
+    border:none;
+    width: 155.5px;
+    height: 30px;
+    background:rgb(3, 90, 3);
+    border-radius:10px;
+    margin-top:10px ;
+    margin-left: 7px;
+    cursor:pointer;
+    color:white;
+    transition: all 0.5s;
+}.text-one button:hover{
+    background:rgb(5, 243, 5);
+    color:rgb(22, 21, 21);
+}
+.TV img{
+    width: 185.5px;
+    height: 190px;
+    margin-left: 10px;
+}
+.text-two h2{
+    font-weight: 500;
+    font-size: 12px;
+    margin-top: 8px;
+    font-family: sans-serif;
+    cursor: pointer;
+    margin-right:auto ;
+
+}
+.text-three h3{
+    padding-left:50px
 }
