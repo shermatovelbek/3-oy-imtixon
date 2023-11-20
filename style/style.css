@@ -227,7 +227,7 @@ color:blue;
     margin-left: 10px;
 }
 .two-hero__container{
-    margin-top: 200px;
+    margin-top: 160px;
     
 }
 .buton3 button{
@@ -241,4 +241,18 @@ color:blue;
     background-repeat: no-repeat;
     color:white;
     transition: all 0.5s;
+}
+.uls2 ul {
+    margin-left: -1130px;
+    margin-top: -20px;
+    display:flex;
+    gap: 29px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.uls2 ul li{
+    transition: all 0.5s;
+}
+.uls2 ul li:hover{
+    color:blue;
 }
