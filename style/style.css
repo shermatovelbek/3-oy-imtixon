@@ -9,7 +9,7 @@
     margin-top: 5px;
     transition: all 0.5s;
     padding-bottom:-5px  ;
-    font-family: sans serif;
+    font-family: sans-serif;
     margin-left: 4px;
     font-size: 12px;
 }
@@ -43,7 +43,7 @@
 }
 .addres a h3{
     margin-left: 30px;
-    margin-top: -10px;
+    margin-top: -15px;
     font-size: 13px;
     color:rgb(110, 106, 106);
     transition:all 0.5s;
@@ -51,7 +51,7 @@
 ul{list-style-type: none;}
 .uls ul{
     display: flex;
-    gap:15px;
+    gap:24px;
     font-size:12px;
     color:rgb(44, 43, 43);
     cursor: pointer;
@@ -60,5 +60,93 @@ ul{list-style-type: none;}
     transition: all 0.5s;
 }
 .uls ul li:hover{
-color:blue
+color:blue;
+}
+.uls ul li{
+    transition: all 0.5s;
+
+}
+.uls ul li:hover{
+    color:blue;
+    background:lightgray;
+    border-radius: 15px;
+}
+.logo a img{
+    width:500px ;
+    height: 200px;
+    margin-left: -140px;
+    padding-top: 10px;
+}
+.buton button img{
+    width: 24px;
+    height: 24px;
+    color:red;
+    margin-left: -110px;
+    margin-bottom: -15px;
+}
+.buton button h3{
+    margin-top: -10px;
+    color:white;
+}
+.buton button{
+    background-color:rgb(223, 16, 16);
+    border:none;
+    border-radius: 14px;
+    width: 150px;
+    height: 45px;
+    cursor:pointer;
+    transition: all 0.5s;
+    margin-top: 85px;
+    margin-left: -150px;
+}
+.buton button:hover{
+    background:rgb(255, 0, 0);
+}
+.section__container{
+    display:flex;
+    margin-top: -75px;
+}
+.inputs input{
+    height: 45px;
+    width: 450px;
+    margin-top: 87px;
+    transition: all 0.5s;
+    border:1px solid rgb(207, 200, 200);
+    border-radius:6px;
+    margin-left: 40px;
+    cursor: pointer;
+}
+.inputs input:hover{
+    background:rgb(252, 255, 255);
+    font-size: 14px;
+    border:none;
+}
+.butons button {
+    margin-top:87px;
+    width: 80px;
+    height: 45px;
+    background:rgb(223, 15, 15);
+    border:1px solid rgb(216, 213, 213);
+    border-radius:12px;
+    cursor: pointer;
+    transition: all 0.5s;
+    margin-left: -75px;
+}
+.butons button:hover{
+    background:rgb(255, 0, 0);
+}
+.one-item img {
+    margin-top: 85px;
+    margin-left: 45px;
+    cursor: pointer;
+}
+.one-item h3{
+    margin-top: 5px;
+    margin-left: 15px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.one-item h3:hover{
+    color:blue;
 }
