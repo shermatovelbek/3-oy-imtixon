@@ -55,7 +55,7 @@ ul{list-style-type: none;}
     font-size:12px;
     color:rgb(44, 43, 43);
     cursor: pointer;
-    margin-left: 460px;
+    margin-left: 410px;
     margin-top: 5px;
     transition: all 0.5s;
 }
@@ -64,6 +64,7 @@ color:blue;
 }
 .uls ul li{
     transition: all 0.5s;
+    cursor: pointer;
 
 }
 .uls ul li:hover{
@@ -444,4 +445,46 @@ color:blue;
 
 .info-six:hover{
     background:lightgray;
+}
+.text p {
+    margin-left: -1250px;
+    font-size: 30px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.buttons{
+    margin-left: -1200px;
+    margin-top: 20px;
+}
+.one-buton button{
+    width: 135px;
+    height: 35px;
+    background:black;
+    color:white;
+    border:none;
+    border-radius:15px;
+    cursor: pointer;
+    transition: all 1s;
+}
+.one-buton button:hover{
+    background:white;
+    color:black;
+    border:1px solid black
+}
+.two-buton button{
+    width: 140px;
+    height: 35px;
+    background:lightgray;
+    color:rgb(39, 37, 37);
+    border-radius:15px;
+    cursor: pointer;
+    transition: all 1s;
+    margin-top: -50px;
+    border:none;
+    margin-left:200px ;
+}
+.two-buton button:hover{
+    background:rgb(51, 50, 50);
+    color:white;
+    border:1px solid lightgray
 }
