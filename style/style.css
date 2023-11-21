@@ -1412,6 +1412,7 @@ color: black;
 .hahj4 h3{
     cursor: pointer;
     font-weight:900;
+    font-size: 16px;
     opacity: .5;
     color:white;
     margin-top: 20px;
@@ -1454,6 +1455,76 @@ color: black;
     transition: all 0.5s;
 }
 .hahj7 h3:hover{
+    color:white;
+    opacity: 1;
+}
+.fiver-blog{
+    margin-left: 790px;
+    margin-top: -223px;
+}
+.one-pragref-block p{
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 14px;
+    color: white;
+}
+.h3 h3{
+    color:white;
+    cursor: pointer;
+    font-weight:900;
+    opacity: .5;
+    margin-top: 20px;
+    transition: all 0.5s;
+}
+.h3 h3:hover{
+    color:white;
+    opacity: 1;
+}
+.h4 h3{
+    color:white;
+    cursor: pointer;
+    font-weight:900;
+    opacity: .5;
+    margin-top: 20px;
+    transition: all 0.5s;
+}
+.h4 h3:hover{
+    color:white;
+    opacity: 1;
+}
+.h4-two h3{
+    color:white;
+    cursor: pointer;
+    font-weight:900;
+    opacity: .5;
+    margin-top: 20px;
+    transition: all 0.5s;
+}
+.h4-two h3:hover{
+    color:white;
+    opacity: 1;
+}
+.h4-three h3{
+    color:white;
+    cursor: pointer;
+    font-weight:900;
+    opacity: .5;
+    margin-top: 20px;
+    transition: all 0.5s;
+}
+.h4-three h3:hover{
+    color:white;
+    opacity: 1;
+}
+.h4-four h3{
+    color:white;
+    cursor: pointer;
+    font-weight:900;
+    opacity: .5;
+    margin-top: 20px;
+    transition: all 0.5s;
+}
+.h4-four h3:hover{
     color:white;
     opacity: 1;
 }
