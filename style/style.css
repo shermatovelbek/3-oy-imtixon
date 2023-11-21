@@ -802,5 +802,124 @@ color:blue;
     margin-left: -10px;
 }
 .common__contaioner{
-    margin-left: -40px;
+    margin-left: -85px;
+}
+.big__container{
+    margin-left: -1290px;
+    display:flex;
+    gap: 20px;
+}
+.big__container button{
+    /* background:rgb(230, 53, 53); */
+}
+.bigger__container{
+    margin-left: -1295px;
+    display:flex;
+    gap: 20px;
+}
+.big-img{
+    margin-left: -1295px;
+    margin-top: 40px;
+    
+}
+.big-img img{
+    width: 1339px;
+    border-radius:15px;
+}
+.text-one-item p{
+    margin-left: -1270px;
+    /* width: 259.69px; */
+    /* height: 36px; */
+    font-size: 40px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+.buttons-item{
+    margin-left: -1260px;
+    display:flex;
+    gap: 12px;
+    margin-top: 20px;
+}
+.buon button{
+    width: 49.55px;
+    height: 30px;
+    background:black;
+    color:white;
+    border:none;
+    border-radius:25px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.buon button:hover{
+    background:white;
+    color:black;
+}
+.button-two-item button{
+    width: 111px;
+    height: 30px;
+    border:none;
+    border-radius: 10px;
+    background:rgb(218, 216, 216);
+    cursor: pointer;
+    padding: 6px 14px;
+    transition: all 0.5s;
+}
+.button-two-item button:hover{
+    background:rgb(121, 117, 117);
+    color:rgb(255, 254, 254) ;
+}
+.button-three-item button{
+    width: 111px;
+    height: 30px;
+    border:none;
+    border-radius: 10px;
+    background:rgb(218, 216, 216);
+    cursor: pointer;
+    padding: 6px 14px;
+    transition: all 0.5s;
+}
+.button-three-item button:hover{
+    background:rgb(121, 117, 117);
+    color:rgb(255, 254, 254) ;
+}
+.button-fiver-item button{
+    width: 111px;
+    height: 30px;
+    border:none;
+    border-radius: 10px;
+    background:rgb(218, 216, 216);
+    cursor: pointer;
+    padding: 6px 14px;
+    transition: all 0.5s;
+}
+.button-fiver-item button:hover{
+    background:rgb(121, 117, 117);
+    color:rgb(255, 254, 254) ;
+}
+.button-four-item button{
+    width: 111px;
+    height: 30px;
+    border:none;
+    border-radius: 10px;
+    background:rgb(218, 216, 216);
+    cursor: pointer;
+    padding: 6px 14px;
+    transition: all 0.5s;
+}
+.button-four-item button:hover{
+    background:rgb(121, 117, 117);
+    color:rgb(255, 254, 254) ;
+}
+.informations{
+    margin-left: -1245px;
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+.one-comp-item{
+    width: 211.5px;
+    height: 500px;
+    background:black;
+    margin-left:-1230px ;
+    margin-top: 30px;
 }
