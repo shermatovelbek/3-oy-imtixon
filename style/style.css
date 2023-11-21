@@ -1028,3 +1028,132 @@ color:blue;
     border-radius:12px;
     cursor: pointer;
 }
+.text-footer{
+    margin-left: -1220px;
+    margin-top: 30px;
+}
+.text-footer p{
+    font-size: 24px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.ine-info-item{
+    width: 226px;
+    height: 238px;
+    background:lightgray;
+    margin-left: -1200px;
+    margin-top: 20px;
+    padding-left: 10px  ;
+    padding-top: 20px;
+    border-radius:10px
+}
+.ine-info-item img{
+    transition: all 3.0s;
+}
+.ine-info-item img:hover{
+    background:rgb(216, 124, 124);
+    width: 60px;
+    height: 50px;
+    border-radius:10px;
+}
+.paragref p{
+    font-weight: 900;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 40px;
+}
+
+.haf3 h3{
+    margin-top: 40px;
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 14px;
+    opacity: 0.80;
+}
+.information-section{
+    margin-top: 60px;
+    margin-left: 120px;
+}
+.foterr-info{
+    margin-left: 100px;
+}
+.ines-info-item{
+    width: 226px;
+    height: 238px;
+    background:rgb(230, 227, 227);
+    /* margin-left: -16qpx; */
+    margin-top: 20px;
+    padding-left: 10px  ;
+    padding-top: 20px;
+    margin-left: -950px;
+    margin-top: -235px;
+    border-radius:10px;
+}
+.inen-info-item{
+    width: 226px;
+    height: 238px;
+    background:rgb(241, 240, 240);
+    margin-left: -1200px;
+    margin-top: 20px;
+    padding-left: 10px  ;
+    padding-top: 20px;
+    margin-left: -700px;
+    border-radius:10px;
+    margin-top: -235px;
+}
+.inens-info-item{
+    width: 226px;
+    height: 238px;
+    background:rgb(231, 230, 230);
+    margin-left: 1000px;
+    margin-top: -235px;
+    padding-left: 10px  ;
+    padding-top: 20px;
+    margin-left: -450px;
+    border-radius:10px;
+}
+.footer__container{
+    margin-top: 30px;
+    margin-left: -450px;
+
+}
+.paragreff p {
+    margin-left: -750px;
+    cursor: pointer;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: sans-serif;
+    margin-top: -200px;
+}
+.haj3 h3{
+    margin-left: -750px;
+    margin-top: 15px;
+    font-weight: 400;
+    font-family: sans-serif;
+    cursor: pointer;
+    color: rgb(92, 91, 91);
+    transition: all 0.5s;
+
+}
+.haj3 h3:hover{
+color: black;
+}
+.ona-anons img{
+    margin-left: -750px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+.twa-anons img{
+    margin-top: 42px;
+    margin-left: -595px;
+    cursor: pointer;
+}
+.anons{
+    display:flex;
+}
+.threee-anons img{
+    margin-left: -439px;
+    margin-top: 42px;
+    cursor: pointer;
+}
+
