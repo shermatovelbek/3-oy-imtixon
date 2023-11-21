@@ -798,5 +798,9 @@ color:blue;
 }
 .common__container{
     display:flex;
-    justify-content: space-between   ;
+    justify-content: space-between;
+    margin-left: -10px;
+}
+.common__contaioner{
+    margin-left: -40px;
 }
