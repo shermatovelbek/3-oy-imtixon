@@ -919,7 +919,57 @@ color:blue;
 .one-comp-item{
     width: 211.5px;
     height: 500px;
-    background:black;
+    background:white;
     margin-left:-1230px ;
     margin-top: 30px;
+}
+.images-comp img{
+    width: 190px;
+    height: 190px;
+    margin-left: 12px;
+    margin-top: 29px;
+}
+.zvd{
+    display: flex;
+    gap: 8px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.five-zvd h3{
+    font-size: 14px;
+    color: rgb(22, 22, 22);
+    margin-left: 20px;
+    margin-top: -25px;
+}
+.text-one-comp h6{
+    width: 200.66px;
+    height: 42px;
+    font-size: 12px;
+    margin-top: 22px;
+    font-weight: 400;
+    margin-left: 26px;
+    font-family: sans-serif;
+    cursor: pointer;
+    color:rgb(102, 98, 98);
+    transition: all 0.5s;
+}
+.text-one-comp h6:hover{
+    color:black;
+}
+.buton-one-comp button{
+    width: 160px;
+    height: 37px;
+    background:rgb(29, 28, 28);
+    border:none;
+    margin-left: 30px;
+    margin-top: 90px;
+    padding: 4px 10px;
+    border-radius:12px;
+    cursor: pointer;
+}
+.buton-one-comp button{
+    color:white;
+}
+.buton-one-comp span{
+    color:lightgray;
 }
