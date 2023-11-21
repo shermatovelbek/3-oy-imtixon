@@ -1324,3 +1324,136 @@ color: black;
     gap: 20px;
     margin-top:-13px;
 }
+.one-blog-paragref p{
+    cursor: pointer;
+    font-weight: 700;
+    font-family: sans-serif;
+    color:white;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+.three-blog{
+    margin-left: 400px;
+    margin-top: -225px;
+}
+.haj4-one h4{
+    cursor: pointer;
+    font-weight:400;
+    opacity: .5;
+    color: white;
+    margin-top: 20px;
+    transition: all 1.5;
+}
+.haj4-one h4:hover{
+    color:white;
+    opacity: 1;
+}
+.haj4-two h4{
+    cursor: pointer;
+    font-weight:400;
+    opacity: .5;
+    color:white;
+    margin-top: 20px;
+    transition: all 0.5s;
+}
+.haj4-two h4:hover{
+    color:white;
+    opacity: 1;
+}
+.haj4-three h4{
+    cursor: pointer;
+    font-weight:400;
+    opacity: .5;
+    color:white;
+    margin-top: 20px;
+    transition: all 0.5s;
+}
+.haj4-three h4:hover{
+    color:white;
+    opacity: 1;
+}
+.haj4-four h4{
+    cursor: pointer;
+    font-weight:400;
+    opacity: .5;
+    color:white;
+    margin-top: 20px;
+    transition: all 0.5s;
+}
+.haj4-four h4:hover{
+    color:white;
+    opacity: 1;
+}
+.four-blog{
+    margin-left: 600px;
+    margin-top: -185px;
+}
+.one-blog-p p{
+    cursor: pointer;
+    font-weight: 700;
+    font-family: sans-serif;
+    color:white;
+    font-size: 12px;
+    margin-top: 20px;   
+}
+.hahj3 h3{
+    cursor: pointer;
+    font-weight:900;
+    opacity: .5;
+    color:white;
+    margin-top: 20px;
+    transition: all 0.5s;
+}
+.hahj3 h3:hover{
+    color:white;
+    opacity: 1;
+}
+.hahj4 h3{
+    cursor: pointer;
+    font-weight:900;
+    opacity: .5;
+    color:white;
+    margin-top: 20px;
+    transition: all 0.5s;
+}
+.hahj4 h3:hover{
+    color:white;
+    opacity: 1;
+}
+.hahj5 h3{
+    cursor: pointer;
+    font-weight:900;
+    opacity: .5;
+    color:white;
+    margin-top: 20px;
+    transition: all 0.5s;
+}
+.hahj5 h3:hover{
+    color:white;
+    opacity: 1;
+}
+.hahj6 h3{
+    cursor: pointer;
+    font-weight:900;
+    opacity: .5;
+    color:white;
+    margin-top: 20px;
+    transition: all 0.5s;
+}
+.hahj6 h3:hover{
+    color:white;
+    opacity: 1;
+}
+.hahj7 h3{
+    cursor: pointer;
+    font-weight:900;
+    opacity: .5;
+    color:white;
+    margin-top: 20px;
+    transition: all 0.5s;
+}
+.hahj7 h3:hover{
+    color:white;
+    opacity: 1;
+}
