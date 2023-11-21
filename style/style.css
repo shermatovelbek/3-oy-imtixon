@@ -922,6 +922,7 @@ color:blue;
     background:white;
     margin-left:-1230px ;
     margin-top: 30px;
+    border:1px solid black;
 }
 .images-comp img{
     width: 190px;
@@ -972,4 +973,58 @@ color:blue;
 }
 .buton-one-comp span{
     color:lightgray;
+}
+.com__container{
+    display: flex;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.footer__container-one{
+    margin-left: -1290px;
+    margin-top: 50px;
+    display: flex;
+    gap: 15px;
+    cursor: pointer;
+}
+.artel-logo button{
+    width: 210px;
+    height: 120px;
+    border:none;
+    border-radius:12px;
+    cursor: pointer;
+}
+.samsung-logo button{
+    width: 210px;
+    height: 120px;
+    border:none;
+    border-radius:12px;
+    cursor: pointer;
+}
+.lg-logo button{
+    width: 210px;
+    height: 120px;
+    border:none;
+    border-radius:12px;
+    cursor: pointer;
+}
+.xiomi-logo button{
+    width: 210px;
+    height: 120px;
+    border:none;
+    border-radius:12px;
+    cursor: pointer;
+}
+.hp-logo button{
+    width: 210px;
+    height: 120px;
+    border:none;
+    border-radius:12px;
+    cursor: pointer;
+}
+.apple-logo button{
+    width: 210px;
+    height: 120px;
+    border:none;
+    border-radius:12px;
+    cursor: pointer;
 }
